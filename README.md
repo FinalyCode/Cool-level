@@ -16,7 +16,7 @@ This wasnt easy to make at all, and took many attempts (mainly because im new to
 ### How i made it
 The basic idea for how the collision works started when i was in 6th grade, and at the time i was fascinated with the Getting Over It locomotion.
 I started working on a Scratch rewrite of the locomotion, when i created a really good way for colliding objects.
-in 2024, I recieved a vr for my 14th birthday. I immediatly started playing gorilla tag, and got farely good at it.
+in 2024, I recieved a vr for my 14th birthday. I immediately started playing gorilla tag, and got farely good at it.
 A few years later, I moved on from scratch to javascript. I started learning very fast, and immediatly wanted to remake gorilla tag.
 Most of the remakes i had in javascript absolutely sucked, and i didnt fully make most of them by hand.
 Fast forward some time and i decided to start using javascript again. I relearned everything to better understand it, and started working on a slither.io engine.
