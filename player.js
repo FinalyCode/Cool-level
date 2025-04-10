@@ -50,7 +50,7 @@ function initObjects() {
   if (!(objects.player.src === "./assets/Player Hitbox.png")) {
     objects.player.src = "./assets/Player Hitbox.png";
     objects.hand.src = "./assets/Hand Hitbox.png";
-    objects.enviroment.src = "./assets/Basic Level.png";
+    objects.enviroment.src = "./Basic Level.png";
   }
   objects.player.onload = function() {
     data.assets += 1;
